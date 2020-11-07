@@ -23,6 +23,7 @@ Hi, I'm Marcelo Estevam, a passionate technology, codes and a god coffe ☕.
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">][java]
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">][go]
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">][mongo]
+[<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][mysql]
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -47,10 +48,11 @@ Hi, I'm Marcelo Estevam, a passionate technology, codes and a god coffe ☕.
 [js]: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
 [typescript]: https://www.typescriptlang.org/docs/
 [java]: https://docs.oracle.com/javase/8/docs/
-[laravel]:https://laravel.com/
+[laravel]: https://laravel.com/
 [vue]: https://vuejs.org/
-[react]:https://reactjs.org/
+[react]: https://reactjs.org/
 [graphql]: https://graphql.org/
-[node]:https://nodejs.org/
+[node]: https://nodejs.org/
 [go]: https://golang.org/
-[mongo]:https://www.mongodb.com/
+[mongo]: https://www.mongodb.com/
+[mysql]: https://www.mysql.com/
