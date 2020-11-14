@@ -13,6 +13,7 @@ Hi, I'm Marcelo Estevam, a passionate technology, codes and a god coffe ☕.
 
 **Languages and Tools:**  
 
+[<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][html]
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][typescript]
 [<img aling="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
@@ -56,3 +57,4 @@ Hi, I'm Marcelo Estevam, a passionate technology, codes and a god coffe ☕.
 [go]: https://golang.org/
 [mongo]: https://www.mongodb.com/
 [mysql]: https://www.mysql.com/
+[html]: https://www.w3schools.com/html/default.asp
