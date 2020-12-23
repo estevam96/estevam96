@@ -37,11 +37,12 @@ Hi, I'm Marcelo Estevam, a passionate technology, codes and a god coffe ☕.
 
 
 <a href="https://github.com/estevam96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam96&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam96&count_private=tru&show_icons=true&theme=radical&hide=issues" alt="Marcelo's github stats" />
 </a>
 <a href="https://github.com/estevam96">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam96&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam96&layout=compact&theme=radical"
+  alt="Marcelo's top langs" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marestevam/
