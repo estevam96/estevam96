@@ -1,7 +1,6 @@
 ## Hi there, I'm Marcelo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Estevam-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marestevam/)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-marcelo.estevm15@hotmail.com-0078D4?style=flat-square&logo=Microsoft-outlook&logoColor=white&link=mailto:diego.schell.f@gmail.com)][mail]
 
 <br />
 
